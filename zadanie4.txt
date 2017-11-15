@@ -1,0 +1,4 @@
+A) Napisow o parzystej dlugosci jest: 5
+B) Napisow o rownej dlugosci jest: 3
+C) Napisow z samych zer jest: 2 oraz napisow z samych jedynek jest: 3
+D) 

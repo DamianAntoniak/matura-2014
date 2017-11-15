@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1417338028 source:c:\users\damia_000\documents\matura_pod2_zad4_2013\main.cpp
+	<iostream>
+	<fstream>
+	"class.h"
+
+1417337942 c:\users\damia_000\documents\matura_pod2_zad4_2013\class.h
+
